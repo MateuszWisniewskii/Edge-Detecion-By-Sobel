@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  attempt.cpp
+  dllmain.cpp
+  Sobel.cpp
+  Generowanie kodu...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+     Trwa tworzenie biblioteki D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\x64\Release\CppDLL.lib i obiektu D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\x64\Release\CppDLL.exp
+  LINK : określono opcję /LTCG, lecz generowanie kodu nie było wymagane; usuń opcję /LTCG z wiersza polecenia konsolidatora w celu podwyższenia wydajności konsolidatora
+  CppDLL.vcxproj -> D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\x64\Release\CppDLL.dll

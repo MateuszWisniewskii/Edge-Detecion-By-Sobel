@@ -1,0 +1,1 @@
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\CppDLL\x64\Release\CppDLL.vcxproj.AssemblyReference.cache

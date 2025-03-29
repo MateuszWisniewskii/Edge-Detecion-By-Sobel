@@ -1,0 +1,4 @@
+﻿  Assembling Sobel.asm...
+     Trwa tworzenie biblioteki D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\x64\Release\AsmDLL.lib i obiektu D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\x64\Release\AsmDLL.exp
+  LINK : określono opcję /LTCG, lecz generowanie kodu nie było wymagane; usuń opcję /LTCG z wiersza polecenia konsolidatora w celu podwyższenia wydajności konsolidatora
+  AsmDLL.vcxproj -> D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\x64\Release\AsmDLL.dll

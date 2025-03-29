@@ -1,0 +1,44 @@
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\bin\Debug\net6.0-windows\EdgeDetectionApp.exe
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\bin\Debug\net6.0-windows\EdgeDetectionApp.deps.json
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\bin\Debug\net6.0-windows\EdgeDetectionApp.runtimeconfig.json
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\bin\Debug\net6.0-windows\EdgeDetectionApp.dll
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\bin\Debug\net6.0-windows\EdgeDetectionApp.pdb
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\bin\Debug\net6.0-windows\CppDLL.dll
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\bin\Debug\net6.0-windows\CppDLL.pdb
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.csproj.AssemblyReference.cache
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.Form1.resources
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.csproj.GenerateResource.cache
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.AssemblyInfoInputs.cache
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.AssemblyInfo.cs
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.csproj.CoreCompileInputs.cache
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.sourcelink.json
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDete.37EEDEB5.Up2Date
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.dll
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\refint\EdgeDetectionApp.dll
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.pdb
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.genruntimeconfig.cache
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\ref\EdgeDetectionApp.dll
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.Properties.Resources.resources
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\bin\Debug\net6.0-windows\EdgeDetectionApp.exe
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\bin\Debug\net6.0-windows\EdgeDetectionApp.deps.json
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\bin\Debug\net6.0-windows\EdgeDetectionApp.runtimeconfig.json
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\bin\Debug\net6.0-windows\EdgeDetectionApp.dll
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\bin\Debug\net6.0-windows\EdgeDetectionApp.pdb
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\bin\Debug\net6.0-windows\CppDLL.dll
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\bin\Debug\net6.0-windows\CppDLL.pdb
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.csproj.AssemblyReference.cache
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.Form1.resources
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.Properties.Resources.resources
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.csproj.GenerateResource.cache
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.AssemblyInfoInputs.cache
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.AssemblyInfo.cs
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.csproj.CoreCompileInputs.cache
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.sourcelink.json
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDete.37EEDEB5.Up2Date
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.dll
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\refint\EdgeDetectionApp.dll
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.pdb
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\EdgeDetectionApp.genruntimeconfig.cache
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\EdgeDetectionApp\obj\Debug\net6.0-windows\ref\EdgeDetectionApp.dll

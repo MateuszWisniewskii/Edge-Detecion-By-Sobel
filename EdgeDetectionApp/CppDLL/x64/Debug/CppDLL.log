@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  attempt.cpp
+  dllmain.cpp
+  Sobel.cpp
+  Generowanie kodu...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  attempt.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+     Trwa tworzenie biblioteki D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\x64\Debug\CppDLL.lib i obiektu D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\x64\Debug\CppDLL.exp
+  CppDLL.vcxproj -> D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\x64\Debug\CppDLL.dll

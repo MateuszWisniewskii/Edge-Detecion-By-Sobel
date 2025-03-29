@@ -1,0 +1,2 @@
+D:\STUDIA\Repozytoria\edge-detection-app\EdgeDetectionApp\CppDLL\x64\Debug\CppDLL.vcxproj.AssemblyReference.cache
+D:\STUDIA\Projekt JA\edge-detection-app\EdgeDetectionApp\CppDLL\x64\Debug\CppDLL.vcxproj.AssemblyReference.cache
